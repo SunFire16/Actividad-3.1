@@ -11,7 +11,7 @@ class MyApp extends StatelessWidget {
       home: WhatsAppUI(),
       theme: ThemeData(
         appBarTheme: AppBarTheme(
-          color: const Color.fromARGB(255, 18, 140, 126), // Cambia el color de la AppBar aquí
+          color: const Color.fromARGB(255, 18, 140, 126),
         ),
       ),
     );
